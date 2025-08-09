@@ -1,6 +1,5 @@
 # Lab05 Solution - IRCTC Stock Price Dataset
 # Covers A1–A7 from Lab05.pdf
-# Author: [Your Name]
 
 import pandas as pd
 import numpy as np
